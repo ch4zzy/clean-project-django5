@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Database file
+*.db
+*.sqlite3
+
+# Django collected static files
+staticfiles
+
+# Django media files
+media
+
+# Log files
+*.log
+
+# virtual environment
+venv
